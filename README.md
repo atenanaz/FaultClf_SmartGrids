@@ -18,3 +18,8 @@ For Healthy data, we got raw healthy signals for 88 line lengths by measuring fr
 The number of samples created by simulation for both faulty and healthy signals is demonstrated in the figure below.
 
 ![Design of dataset](https://user-images.githubusercontent.com/38736959/154936004-ce2987b0-b0bc-4a0e-acac-7ec23b162b6f.png)
+
+Notification:
+In the paper, we considered the whole simulation time as t = [0.0 - 0.02] which means the fault remains in the network. Also, the number of resistances and line lengths were reduced to 15 and 60, respectively. You can see in figure below the number of samples for the rest data “Features” and “Spectrogram”.
+
+
