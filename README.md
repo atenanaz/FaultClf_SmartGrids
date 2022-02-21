@@ -12,3 +12,9 @@ For fault simulation, we divided the network into four zones as shown in Figure 
 This folder contains three .csv files that include phase A, B, and C voltage measurements. 
 
 ![IEEE-13pdf](https://user-images.githubusercontent.com/38736959/154933815-8bb93d98-f34e-4024-a24b-6efa221d2696.png)
+
+   b. HealthySignal_withoutRE:
+For Healthy data, we got raw healthy signals for 88 line lengths by measuring from four locations and for three phases. This folder contains three .xlsx files that include phase A, B, and C voltage measurements. The whole simulation time was t = [0.0 - 0.022].
+The number of samples created by simulation for both faulty and healthy signals is demonstrated in the figure below.
+
+
