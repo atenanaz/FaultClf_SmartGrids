@@ -17,4 +17,4 @@ This folder contains three .csv files that include phase A, B, and C voltage mea
 For Healthy data, we got raw healthy signals for 88 line lengths by measuring from four locations and for three phases. This folder contains three .xlsx files that include phase A, B, and C voltage measurements. The whole simulation time was t = [0.0 - 0.022].
 The number of samples created by simulation for both faulty and healthy signals is demonstrated in the figure below.
 
-
+![Design of dataset](https://user-images.githubusercontent.com/38736959/154936004-ce2987b0-b0bc-4a0e-acac-7ec23b162b6f.png)
