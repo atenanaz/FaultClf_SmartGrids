@@ -61,3 +61,6 @@ This folder contains 5 sub-folders (Zone_1, Zone_2, Zone_3, Zone_4, Zone_h) and 
 
 The diagram of folders is shown in the following:
 
+![Folder](https://user-images.githubusercontent.com/38736959/154938716-09e429f1-a5a1-41f0-86fb-57619eb3d92f.png)
+
+Dataset can be downloaded from the linke: https://drive.google.com/drive/folders/1IOYheTnH6bidXhvvTQPs5O_g3SWDfjvF?usp=sharing
