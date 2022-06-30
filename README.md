@@ -1,4 +1,4 @@
-# FaultClf_SmartGrids
+# FaultClf_SmartGrids_Without Renewable energies
 
 Information about Dataset:
 
